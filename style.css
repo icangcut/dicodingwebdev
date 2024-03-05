@@ -26,6 +26,15 @@
   }
   
 
+h3 {
+ text-decoration: underline;
+}
+
+h4 {
+  text-decoration: underline;
+ }
+
+  /* footer */
 .shadowbox {
     width: 25em;
     border: 1px solid #333;
