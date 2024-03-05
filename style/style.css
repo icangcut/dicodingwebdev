@@ -26,20 +26,27 @@
   }
   
 
-h3 {
+body{
+  font-family: sans-serif;
+}
+
+h3, h4 {
+  color: rgb(0, 0, 0);
  text-decoration: underline;
 }
 
-h4 {
-  text-decoration: underline;
- }
+footer {
+  padding: 14px 20px;
+  color: white;
+  background-color: #333;
+}
 
-  /* footer */
+  /* footer 
 .shadowbox {
     width: 25em;
     border: 1px solid #333;
     padding: 8px 20px;
     background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
   }
-
+*/
   
